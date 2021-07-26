@@ -9,11 +9,17 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>com-OU-dongbao-application</artifactId>
+    <artifactId>com-OU-dongbao-service</artifactId>
     <packaging>jar</packaging>
     <modules>
-        <module>msb-dongbao-manager-web</module>
-        <module>msb-dongbao-portal-web</module>
+        <module>msb-dongbao-oms</module>
+        <module>msb-dongbao-pms</module>
+        <module>msb-dongbao-ums</module>
+        <module>msb-dongbao-pay</module>
+        <module>msb-dongbao-cart</module>
+        <module>msb-dongbao-dictionary</module>
+        <module>msb-dongbao-sms</module>
+        <module>msb-dongbao-cms</module>
     </modules>
 
 

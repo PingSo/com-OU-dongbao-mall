@@ -11,6 +11,10 @@
     <modules>
         <module>com-OU-dongbao-api</module>
         <module>com-OU-dongbao-application</module>
+        <module>com-OU-dongbao-service</module>
+        <module>com-OU-dongbao-common</module>
+        <module>msb-dongbao-job</module>
+        <module>msb-dongbao-generator</module>
     </modules>
 
 

@@ -6,15 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="msb-dongbao-cms-api" />
-        <module name="msb-dongbao-oms-api" />
-        <module name="msb-dongbao-dictionary-api" />
+        <module name="msb-dongbao-common-util" />
+        <module name="msb-dongbao-job" />
+        <module name="com-OU-dongbao-api" />
         <module name="msb-dongbao-pay-api" />
         <module name="msb-dongbao-ums-api" />
-        <module name="msb-dongbao-sms-api" />
-        <module name="msb-dongbao-cart-api" />
-        <module name="msb-dongbao-pms-api" />
+        <module name="msb-dongbao-portal-web" />
+        <module name="msb-dongbao-cms" />
+        <module name="msb-dongbao-ums" />
+        <module name="msb-dongbao-cart" />
+        <module name="com-OU-dongbao-common" />
         <module name="com-OU-dongbao-application" />
+        <module name="msb-dongbao-pms-api" />
+        <module name="msb-dongbao-pay" />
+        <module name="msb-dongbao-sms-api" />
+        <module name="msb-dongbao-oms" />
+        <module name="msb-dongbao-pms" />
+        <module name="msb-dongbao-common-base" />
+        <module name="msb-dongbao-manager-web" />
+        <module name="msb-dongbao-oms-api" />
+        <module name="msb-dongbao-dictionary" />
+        <module name="msb-dongbao-cart-api" />
+        <module name="msb-dongbao-dictionary-api" />
+        <module name="msb-dongbao-cms-api" />
+        <module name="msb-dongbao-sms" />
+        <module name="com-OU-dongbao-service" />
+        <module name="msb-dongbao-generator" />
       </profile>
     </annotationProcessing>
   </component>
